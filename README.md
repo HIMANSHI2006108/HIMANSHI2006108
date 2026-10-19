@@ -56,6 +56,7 @@ A travel-focused web project designed to make exploring travel information conve
 
 I'm always interested in learning, building projects, and connecting with fellow developers.
 
-**GitHub:** [@HIMANSHI2006108](https://github.com/HIMANSHI2006108)
+**GitHub:** [@HIMANSHI2006108](https://github.com/HIMANSHI2006108)  
+**Email:** [himanshi200618@gmail.com]
 
 ⭐ Thanks for visiting my profile!
