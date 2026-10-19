@@ -1,62 +1,111 @@
-# Hi, I'm Himanshi 👋
+Hi, I'm Himanshi 👋
 
-### B.Tech CSIT Student | Aspiring Software Developer
+B.Tech CSIT Student | Aspiring Full-Stack Developer
 
-I'm a computer science student who enjoys building practical web applications and learning how full-stack systems work.
+I'm a Computer Science and Information Technology student at Dronacharya College of Engineering, passionate about building web applications and learning new technologies.
 
-* 🎓 B.Tech in Computer Science & Information Technology
-* 💻 Interested in full-stack development and web applications
-* 🌱 Learning and practising React, JavaScript, Node.js, Express, and MongoDB
-* 🚀 Building projects to strengthen my development skills
+🎓 Currently pursuing B.Tech in CSIT
 
----
+💻 Interested in full-stack and web development
 
-## 🛠️ Tech Stack
+🌱 Continuously improving my programming skills
 
-**Frontend:** HTML · CSS · JavaScript · React
+🚀 Building projects to gain practical experience
 
-**Backend:** Node.js · Express.js
+🤝 Open to learning opportunities and collaboration
 
-**Database:** MongoDB
+🛠️ Tech Stack
 
-**Real-Time Communication:** WebRTC · Socket.IO
+🎨 Frontend Development
 
-**Tools:** Git · GitHub
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <imghere O  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> </p>
 
----
+⚙️ Backend Development
 
-## 🚀 Featured Projects
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
 
-### 🎥 Video Conferencing App
+🗄️ Database
 
-A full-stack video conferencing application exploring real-time communication using WebRTC and Socket.IO, with React, Node.js, Express, and MongoDB.
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-[View Project](https://github.com/HIMANSHI2006108/project1.1)
+📡 Real-Time Communication
 
-### 🌦️ Weather App
+<p>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p>
 
-A web application designed to display weather information through a simple and user-friendly interface.
+🔧 Tools & Version Control
 
-### ✈️ Travel App
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-A travel-focused web project designed to make exploring travel information convenient.
+🚀 Featured Projects
 
----
+🎥 Video Conferencing App
 
-## 🎯 My Goals
+A full-stack video conferencing application built to explore real-time communication and collaboration using React, Node.js, Express, WebRTC, Socket.IO, and MongoDB.
 
-* Improve my full-stack development skills
-* Write clean, maintainable code
-* Build useful real-world projects
-* Learn new technologies and collaborate with developers
+Technologies: React · Node.js · Express · MongoDB · WebRTC · Socket.IO
 
----
+🔗 View Source Code
 
-## 🤝 Let's Connect
+🌦️ Weather App
+
+A web application designed to display weather information through a simple, responsive, and user-friendly interface.
+
+Technologies: HTML · CSS · JavaScript
+
+🔗 Explore My Repositories
+
+✈️ Travel App
+
+A travel-focused web application designed to help users explore destinations and access useful travel information.
+
+Technologies: HTML · CSS · JavaScript
+
+🔗 Explore My Repositories
+
+📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HIMANSHI2006108&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIMANSHI2006108&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=FFFFFF" alt="Most used programming languages" />
+</p>
+
+🎯 My Goals
+
+Improve my full-stack development skills
+
+Write clean, readable, and maintainable code
+
+Build useful real-world applications
+
+Strengthen my problem-solving abilities
+
+Learn new technologies and collaborate with developers
+
+🤝 Let's Connect
 
 I'm always interested in learning, building projects, and connecting with fellow developers.
 
-**GitHub:** [@HIMANSHI2006108](https://github.com/HIMANSHI2006108)  
-**Email:** [himanshi200618@gmail.com]
+GitHub: @HIMANSHI2006108
 
+LinkedIn: Add your LinkedIn profile URL
+
+<p align="center">
+<i>Learn • Build • Grow • Repeat</i>
+<br /><br />
 ⭐ Thanks for visiting my profile!
+</p>
+
